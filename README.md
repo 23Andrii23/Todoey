@@ -2,5 +2,5 @@
 
 - Clone this repo.
 - Open shell window and navigate to project folder.
-- Run _pod install_.
+- Run 'pod install'.
 - Open Todoey.xcworkspace and run the project on selected device or simulator.
